@@ -18,7 +18,7 @@ kwargs = {
         "content": [
           {
             "type": "text",
-            "text": "What's in this image?"
+            "text": prompt
           }
         ]
       }
